@@ -1,8 +1,12 @@
 # The Fake News Detector
 
 Project Summary: The Fake News Detector
+
+
 Project Description:
+
 The Fake News Detector is a machine learning project aimed at identifying and classifying fake news articles. The project leverages various data processing and machine learning techniques to develop a model capable of distinguishing between real and fake news.
+
 
 Key Features:
 Data Loading and Preprocessing: The project begins by importing necessary libraries and loading the dataset, which contains labeled news articles.
